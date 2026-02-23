@@ -1,4 +1,4 @@
-import random
+
 
 total_score = 0
 
@@ -26,4 +26,5 @@ while True:
         break
     
 print("Total Score : ", total_score)
+
 print("----GAME OVER----")
